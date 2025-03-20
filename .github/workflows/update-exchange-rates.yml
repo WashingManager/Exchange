@@ -1,7 +1,7 @@
 name: Update Exchange Rates
 on:
   schedule:
-    - cron: '*/2 * * * *' # 매시간 0분 (UTC)
+    - cron: '*/2 * * * *' # 2분마다 (UTC)
   workflow_dispatch:
 
 permissions:
@@ -15,7 +15,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: '16'
-      - run: npm install node-fetch@2 cheerio
+      - run: npm install node-fetch@2.6.7 cheerio
       - run: node update-exchange-rates.js
       - run: |
           git config user.name "GitHub Action"
