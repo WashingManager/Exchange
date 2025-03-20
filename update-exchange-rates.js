@@ -1,6 +1,6 @@
-const fetch = require('node-fetch');
-const fs = require('fs');
-const cheerio = require('cheerio');
+import fetch from 'node-fetch';
+import fs from 'fs';
+import cheerio from 'cheerio';
 
 async function updateExchangeRates() {
     try {
