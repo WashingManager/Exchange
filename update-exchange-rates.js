@@ -1,5 +1,7 @@
-const fetch = require('node-fetch');
-const fs = require('fs');
+import fetch from 'node-fetch';
+import { writeFileSync } from 'fs';
+import { createRequire } from 'module';
+const require = createRequire(import.meta.url);
 const cheerio = require('cheerio');
 
 async function updateExchangeRates() {
@@ -47,14 +49,14 @@ async function updateExchangeRates() {
         const date = exchangeDesc.find('div').eq(0).text().trim();
         const round = exchangeDesc.find('div').eq(1).find('strong').text().trim();
 
-        fs.writeFileSync(
+        writeFileSync(
             'exchange-rates.json',
             JSON.stringify({ rates: exchangeData, date, round }, null, 2)
         );
         console.log('exchange-rates.json 업데이트 성공');
     } catch (error) {
         console.error('업데이트 실패:', error);
-        fs.writeFileSync(
+        writeFileSync(
             'exchange-rates.json',
             JSON.stringify({ rates: [{ currency: '오류', baseRate: '데이터 업데이트 실패' }], date: 'N/A', round: 'N/A' }, null, 2)
         );
