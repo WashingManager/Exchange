@@ -15,8 +15,8 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: '18'
-      - run: npm install
-      - run: npm start
+      - run: npm install node-fetch@2.6.7 cheerio
+      - run: node update-exchange-rates.js
       - run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
