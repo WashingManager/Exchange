@@ -13,69 +13,69 @@
     },
     {
       "currency": "JPY 일본",
-      "baseRate": "942.35",
-      "change": "1.69",
+      "baseRate": "941.79",
+      "change": "1.13",
       "changeDirection": "상승",
-      "changeRate": "0.18",
-      "cashBuy": "958.84",
-      "cashSell": "925.86",
-      "send": "951.49",
-      "receive": "933.21"
+      "changeRate": "0.12",
+      "cashBuy": "958.27",
+      "cashSell": "925.31",
+      "send": "950.92",
+      "receive": "932.66"
     },
     {
       "currency": "EUR 유럽",
-      "baseRate": "1,662.89",
-      "change": "8.32",
+      "baseRate": "1,662.03",
+      "change": "7.46",
       "changeDirection": "상승",
-      "changeRate": "0.50",
-      "cashBuy": "1,695.81",
-      "cashSell": "1,629.97",
-      "send": "1,679.51",
-      "receive": "1,646.27"
+      "changeRate": "0.45",
+      "cashBuy": "1,694.93",
+      "cashSell": "1,629.13",
+      "send": "1,678.65",
+      "receive": "1,645.41"
     },
     {
       "currency": "CNY 중국",
-      "baseRate": "201.03",
-      "change": "1.72",
+      "baseRate": "201.01",
+      "change": "1.70",
       "changeDirection": "상승",
-      "changeRate": "0.86",
-      "cashBuy": "213.09",
-      "cashSell": "190.98",
-      "send": "203.04",
-      "receive": "199.02"
+      "changeRate": "0.85",
+      "cashBuy": "213.07",
+      "cashSell": "190.96",
+      "send": "203.02",
+      "receive": "199.00"
     },
     {
       "currency": "HKD 홍콩",
-      "baseRate": "184.26",
-      "change": "1.51",
+      "baseRate": "184.25",
+      "change": "1.50",
       "changeDirection": "상승",
-      "changeRate": "0.83",
-      "cashBuy": "187.92",
-      "cashSell": "180.60",
-      "send": "186.10",
-      "receive": "182.42"
+      "changeRate": "0.82",
+      "cashBuy": "187.91",
+      "cashSell": "180.59",
+      "send": "186.09",
+      "receive": "182.41"
     },
     {
       "currency": "GBP 영국",
-      "baseRate": "1,914.46",
-      "change": "8.78",
+      "baseRate": "1,914.75",
+      "change": "9.07",
       "changeDirection": "상승",
-      "changeRate": "0.46",
-      "cashBuy": "1,952.55",
-      "cashSell": "1,876.37",
-      "send": "1,933.60",
-      "receive": "1,895.32"
+      "changeRate": "0.48",
+      "cashBuy": "1,952.85",
+      "cashSell": "1,876.65",
+      "send": "1,933.89",
+      "receive": "1,895.61"
     },
     {
       "currency": "CHF 스위스",
-      "baseRate": "1,801.01",
-      "change": "13.34",
+      "baseRate": "1,800.78",
+      "change": "13.11",
       "changeDirection": "상승",
-      "changeRate": "0.75",
-      "cashBuy": "1,836.85",
-      "cashSell": "1,765.17",
-      "send": "1,819.02",
-      "receive": "1,783.00"
+      "changeRate": "0.73",
+      "cashBuy": "1,836.61",
+      "cashSell": "1,764.95",
+      "send": "1,818.78",
+      "receive": "1,782.78"
     },
     {
       "currency": "CAD 캐나다",
@@ -90,14 +90,14 @@
     },
     {
       "currency": "AUD 호주",
-      "baseRate": "928.81",
-      "change": "5.71",
+      "baseRate": "928.38",
+      "change": "5.28",
       "changeDirection": "상승",
-      "changeRate": "0.62",
-      "cashBuy": "947.29",
-      "cashSell": "910.33",
-      "send": "938.09",
-      "receive": "919.53"
+      "changeRate": "0.57",
+      "cashBuy": "946.85",
+      "cashSell": "909.91",
+      "send": "937.66",
+      "receive": "919.10"
     },
     {
       "currency": "NZD 뉴질랜드",
@@ -112,36 +112,36 @@
     },
     {
       "currency": "SEK 스웨덴",
-      "baseRate": "151.95",
-      "change": "1.24",
+      "baseRate": "151.97",
+      "change": "1.26",
       "changeDirection": "상승",
-      "changeRate": "0.82",
-      "cashBuy": "155.74",
-      "cashSell": "148.16",
-      "send": "153.46",
-      "receive": "150.44"
+      "changeRate": "0.84",
+      "cashBuy": "155.76",
+      "cashSell": "148.18",
+      "send": "153.48",
+      "receive": "150.46"
     },
     {
       "currency": "DKK 덴마크",
-      "baseRate": "222.64",
-      "change": "1.09",
+      "baseRate": "222.54",
+      "change": "0.99",
       "changeDirection": "상승",
-      "changeRate": "0.49",
-      "cashBuy": "228.20",
-      "cashSell": "217.08",
-      "send": "224.86",
-      "receive": "220.42"
+      "changeRate": "0.45",
+      "cashBuy": "228.10",
+      "cashSell": "216.98",
+      "send": "224.76",
+      "receive": "220.32"
     },
     {
       "currency": "NOK 노르웨이",
-      "baseRate": "142.33",
-      "change": "1.33",
+      "baseRate": "142.31",
+      "change": "1.31",
       "changeDirection": "상승",
-      "changeRate": "0.94",
-      "cashBuy": "145.88",
-      "cashSell": "138.78",
-      "send": "143.75",
-      "receive": "140.91"
+      "changeRate": "0.93",
+      "cashBuy": "145.86",
+      "cashSell": "138.76",
+      "send": "143.73",
+      "receive": "140.89"
     },
     {
       "currency": "SAR 사우디아라비아",
@@ -200,14 +200,14 @@
     },
     {
       "currency": "SGD 싱가포르",
-      "baseRate": "1,103.51",
-      "change": "7.79",
+      "baseRate": "1,103.25",
+      "change": "7.53",
       "changeDirection": "상승",
-      "changeRate": "0.71",
-      "cashBuy": "1,125.58",
-      "cashSell": "1,081.44",
-      "send": "1,114.54",
-      "receive": "1,092.48"
+      "changeRate": "0.69",
+      "cashBuy": "1,125.31",
+      "cashSell": "1,081.19",
+      "send": "1,114.28",
+      "receive": "1,092.22"
     },
     {
       "currency": "IDR 인도네시아",
@@ -266,14 +266,14 @@
     },
     {
       "currency": "PHP 필리핀",
-      "baseRate": "24.57",
-      "change": "0.16",
+      "baseRate": "24.56",
+      "change": "0.15",
       "changeDirection": "상승",
-      "changeRate": "0.66",
-      "cashBuy": "27.02",
-      "cashSell": "22.86",
-      "send": "24.81",
-      "receive": "24.33"
+      "changeRate": "0.61",
+      "cashBuy": "27.01",
+      "cashSell": "22.85",
+      "send": "24.80",
+      "receive": "24.32"
     },
     {
       "currency": "EGP 이집트",
@@ -310,5 +310,5 @@
     }
   ],
   "date": "2025년10월21일",
-  "round": "806"
+  "round": "816"
 }
